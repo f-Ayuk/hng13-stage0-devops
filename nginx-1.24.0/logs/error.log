@@ -1,0 +1,1 @@
+2025/10/18 15:30:38 [error] 49372#36424: *1 CreateFile() "C:\Users\favor\OneDrive\Desktop\hng\devops\hng13-stage0-devops\nginx-1.24.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
